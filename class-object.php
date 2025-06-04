@@ -25,7 +25,7 @@
 //   }
 
 
-//   }
+//   }.....
 //   $obj=new gender("rahul","sunita");
 //   $obj->get_gen();
 
